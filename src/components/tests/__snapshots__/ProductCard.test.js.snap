@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard component renders correctly (if quantity is 0, card renders with cart) 1`] = `
+<div>
+  <div
+    class="Product-card"
+  >
+    <div
+      class="image-container"
+    >
+      <img
+        class="product-img"
+      />
+      <p
+        class="product-description"
+      />
+    </div>
+    <p>
+      Price: 
+       $
+    </p>
+    <div>
+      <img
+        alt="shopping cart"
+        class="cart"
+        data-testid="cart-undefined"
+        src="cart.svg"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ProductCard component renders correctly (if quantity is bigger than 0, card renders with input) 1`] = `
+<div>
+  <div
+    class="Product-card"
+  >
+    <div
+      class="image-container"
+    >
+      <img
+        class="product-img"
+      />
+      <p
+        class="product-description"
+      />
+    </div>
+    <p>
+      Price: 
+       $
+    </p>
+    <div
+      class="input-container"
+    >
+      <button>
+        –
+      </button>
+      <input
+        data-testid="input-undefined"
+        name="quantity"
+        pattern="/^\\\\d+$/"
+        type="tel"
+        value="1"
+      />
+      <button>
+        +
+      </button>
+    </div>
+  </div>
+</div>
+`;

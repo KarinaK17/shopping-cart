@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders correctly 1`] = `
+<div>
+  <nav>
+    <a
+      class="logo-and-name"
+      href="#/"
+    >
+      <img
+        alt="logo"
+        class="logo"
+        src="logo.svg"
+      />
+      <h1>
+        Étude
+      </h1>
+    </a>
+    <ul>
+      <a
+        aria-current="page"
+        class="active"
+        href="#/"
+      >
+        <li>
+          Home
+        </li>
+      </a>
+      <a
+        class=""
+        href="#/shop"
+      >
+        <li>
+          Shop
+        </li>
+      </a>
+    </ul>
+  </nav>
+  <div
+    class="content Home"
+  >
+    <div
+      class="welcome"
+    >
+      <h2>
+        Home Page
+      </h2>
+      <p>
+        Welcome to our store!
+      </p>
+    </div>
+    <div
+      class="about"
+    >
+      <h3>
+        About us
+      </h3>
+      <p>
+        We sell high quality stationery, school and office supplies to make your studying, working or making art comfortable and fun.
+      </p>
+    </div>
+    <div
+      class="home-images"
+    >
+      <img
+        alt="kids"
+        class="kids"
+        src="kids.png"
+      />
+      <img
+        alt="girl"
+        class="girl"
+        src="girl.png"
+      />
+    </div>
+    <div
+      class="contacts"
+    >
+      <h3>
+        Contacts
+      </h3>
+      <p>
+        Telephone: +307 (24) 53-98-01
+      </p>
+    </div>
+  </div>
+  <footer>
+    Images from 
+    <a
+      href="https://darvish.by/"
+    >
+      Darvish
+    </a>
+    ,
+     
+    <a
+      href="https://www.svgrepo.com/"
+    >
+      SVG Repo
+    </a>
+    ,
+     
+    <a
+      href="https://pixabay.com/"
+    >
+      Pixabay
+    </a>
+  </footer>
+</div>
+`;
