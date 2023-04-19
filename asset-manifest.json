@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.c7fb07b5.css",
+    "main.js": "/shopping-cart/static/js/main.ad58ad20.js",
+    "static/media/kids.png": "/shopping-cart/static/media/kids.87b098b8b161c64b2933.png",
+    "static/media/girl.png": "/shopping-cart/static/media/girl.16e194508d917fa51ffb.png",
+    "static/media/highlighters.jpg": "/shopping-cart/static/media/highlighters.2afd2a1893f9f733a5c3.jpg",
+    "static/media/landscape-copybooks.jpg": "/shopping-cart/static/media/landscape-copybooks.467e0e6b6193fb0f43e3.jpg",
+    "static/media/nature-copybooks.jpg": "/shopping-cart/static/media/nature-copybooks.1b6fdd2e8ca6dafdb4eb.jpg",
+    "static/media/calculator.jpg": "/shopping-cart/static/media/calculator.0c7b520405564b016710.jpg",
+    "static/media/sticky-notes.jpg": "/shopping-cart/static/media/sticky-notes.94ecda213e69c55c7983.jpg",
+    "static/media/brushes.jpg": "/shopping-cart/static/media/brushes.96baa403c54386324b64.jpg",
+    "static/media/watercolor.jpg": "/shopping-cart/static/media/watercolor.b718fafa12544e6bb883.jpg",
+    "static/media/pens2.jpg": "/shopping-cart/static/media/pens2.dbeee3da248b5bdff6b9.jpg",
+    "static/media/pens1.jpg": "/shopping-cart/static/media/pens1.df93d8a7905a91c8e67d.jpg",
+    "static/media/pens3.jpg": "/shopping-cart/static/media/pens3.9b7ab5593323bdaae540.jpg",
+    "static/media/pencil.jpg": "/shopping-cart/static/media/pencil.fb5358f8f3f326368b91.jpg",
+    "static/media/multicolored-pencils.jpg": "/shopping-cart/static/media/multicolored-pencils.3eb55ddd03d7f68437d8.jpg",
+    "static/media/logo.svg": "/shopping-cart/static/media/logo.dfa6ec49628f9963c2952652a8a4a9bf.svg",
+    "static/media/white-cart.svg": "/shopping-cart/static/media/white-cart.59f39eed8d51cb48c404ae9d47d993bd.svg",
+    "static/media/cart.svg": "/shopping-cart/static/media/cart.989fcb2059a23634f8fdb47eabb8cfdd.svg",
+    "index.html": "/shopping-cart/index.html",
+    "main.c7fb07b5.css.map": "/shopping-cart/static/css/main.c7fb07b5.css.map",
+    "main.ad58ad20.js.map": "/shopping-cart/static/js/main.ad58ad20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7fb07b5.css",
+    "static/js/main.ad58ad20.js"
+  ]
+}
